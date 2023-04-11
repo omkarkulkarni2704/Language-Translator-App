@@ -3,6 +3,8 @@
 Build a language translator application that can translate from English to any language.
 Language used: Java
 
+# Marathi Translate
+![image](https://user-images.githubusercontent.com/89896505/231060102-23af1551-f054-41c8-baa3-f84dd8379ee6.png)
 
 # Dataset
 
