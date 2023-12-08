@@ -4,13 +4,16 @@ Build a language translator application that can translate from English to any l
 Language used: Java
 
 # Marathi Language Translate
-![image](https://user-images.githubusercontent.com/89896505/231060102-23af1551-f054-41c8-baa3-f84dd8379ee6.png)
+![Screenshot (73)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/f749c1d2-32b5-4be1-aae8-e3f294d2c765)
 
 # Hindi Language Translate
-![image](https://user-images.githubusercontent.com/89896505/231060225-39ab2eae-0999-421f-8f47-cfdeda90746c.png)
+![Screenshot (74)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/358067f5-79d5-4a03-8638-cd79af648346)
 
 # Kannada Language Translate
-![image](https://user-images.githubusercontent.com/89896505/231060318-9f41328b-5cae-42a3-972a-6dec78d48545.png)
+![Screenshot (75)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/c12981be-d05e-4d90-ac49-207e12637abd)
+
+# Telugu Language Translate
+![Screenshot (76)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/3cd60462-7bd8-4a9d-b5db-44e195bca97f)
 
 # Dataset
 
