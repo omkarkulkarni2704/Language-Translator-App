@@ -324,7 +324,7 @@ const languages = [
       no: "",
       name: "Sanskrit",
       native: "संस्कृत",
-      code: "sk",
+      code: "sa",
     },
     {
       no: "",
@@ -366,7 +366,7 @@ const languages = [
       no: "",
       name: "Tamil",
       native: "தமிழ்",
-      code: "tm",
+      code: "ta",
     },
     {
       no: "",
@@ -559,4 +559,3 @@ const inputChars = document.querySelector("#input-chars");
 inputTextElem.addEventListener("input", (e) => {
   inputChars.innerHTML = inputTextElem.value.length;
 });
-
