@@ -7,16 +7,18 @@ https://omkarkulkarni2704.github.io/LanguageTranslator/
  Language used: HTML, CSS, JavaScript
 
 # Marathi Language Translate
-![Screenshot (73)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/f749c1d2-32b5-4be1-aae8-e3f294d2c765)
+![Screenshot (80)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/0548b92e-1a1e-40f8-a55b-d45f2d7e5972)
 
-# Hindi Language Translate
-![Screenshot (74)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/358067f5-79d5-4a03-8638-cd79af648346)
+ # Hindi Language Translate
+ ![Screenshot (81)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/8168ffe8-f49f-48d7-af3d-931559f89893)
 
 # Kannada Language Translate
-![Screenshot (75)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/c12981be-d05e-4d90-ac49-207e12637abd)
+ ![Screenshot (82)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/4f3e6236-8501-4d9b-82c2-3e32132796cd)
 
-# Telugu Language Translate
-![Screenshot (76)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/3cd60462-7bd8-4a9d-b5db-44e195bca97f)
+# Tamil Language Translate
+ ![Screenshot (83)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/7d19a314-a6da-42fe-8081-cbae06b3e55d)
+
+ 
 
 # Dataset
 
