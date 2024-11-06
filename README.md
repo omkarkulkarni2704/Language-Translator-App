@@ -2,9 +2,7 @@
 
 Build a language translator application that can translate from English to any language.
 
-https://omkarkulkarni2704.github.io/LanguageTranslator/
 
- Language used: HTML, CSS, JavaScript
 
 # Marathi Language Translate
 ![Screenshot (80)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/0548b92e-1a1e-40f8-a55b-d45f2d7e5972)
