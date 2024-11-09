@@ -5,7 +5,7 @@
 
 
 ## Marathi Language Translate
-![Screenshot (80)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/0548b92e-1a1e-40f8-a55b-d45f2d7e5972)
+![Screenshot (80)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/0548b92e-1a1e-40f8-a55b-d45f2d7e5972) 
 
  ## Hindi Language Translate
  ![Screenshot (81)](https://github.com/omkarkulkarni2704/Language-Translator-App/assets/89896505/8168ffe8-f49f-48d7-af3d-931559f89893)
