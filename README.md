@@ -1,6 +1,6 @@
 # Language Translator App 
 
-* Build a language translator application that can translate from English to any language. 
+* Build a language translator application that can translate from English to any language.   
 
 
 
